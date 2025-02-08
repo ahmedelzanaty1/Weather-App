@@ -1,6 +1,5 @@
 package com.example.weatherapp.data.remote.mapper
 
-import WeatherData
 import WeatherDataDto
 import com.example.weatherapp.data.remote.WeatherDto
 import com.example.weatherapp.domain.WeatherApp.WeatherType
