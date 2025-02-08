@@ -72,6 +72,8 @@ dependencies {
     implementation (libs.retrofit)
     implementation (libs.converter.gson)
     implementation (libs.logging.interceptor)
+    // splash api
+    implementation(libs.androidx.core.splashscreen)
 }
 kapt {
     correctErrorTypes = true
